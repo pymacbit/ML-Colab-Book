@@ -2,7 +2,7 @@
 
 - In this algorithm, we do not have any target or outcome variable to predict / estimate. It is used for clustering population in different groups, which is widely used for segmenting customers in different groups for specific intervention.
 
-![Unsupervised Learning](./img/Unsupervised-Learning-Algorithms.png)
+![Unsupervised Learning](/img/Unsupervised-Learning-Algorithms.png)
 
 
 - Unsupervised learning models are used when we only have the input variables (X) and no corresponding output variables. They use unlabeled training data to model the underlying structure of the data.
