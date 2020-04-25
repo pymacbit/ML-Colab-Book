@@ -1,8 +1,17 @@
 # ML Colab Book
 
-### Colaborators : Pymacbit , Kunal Burgul
+--------------------------------------
+<img src="img/ml.png"  width="500"  height="500">
 
-<img src="img/ml.png">
+--------------------------------------
+
+### Contributors :
+
+* [Yatindra](https://github.com/pymacbit)
+* [Kunal Burgul](https://github.com/kunalburgul)
+
+  , 
+
 
  
 
