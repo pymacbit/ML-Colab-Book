@@ -2,7 +2,7 @@
 
 - This algorithm consist of a target / outcome variable (or dependent variable) which is to be predicted from a given set of predictors (independent variables). Using these set of variables, we generate a function that map inputs to desired outputs. The training process continues until the model achieves a desired level of accuracy on the training data. 
 
- ![alt text](https://drive.google.com/uc?id=1eAflKqsjVGPgRgzflapkV-g3wKSpmvax)
+ ![Supervised Learning](/img/Supervised-Learning-Algorithms.png)
 
 
 - Supervised learning uses labeled training data to learn the mapping function that turns input variables (X) into the output variable (Y). In other words, it solves for f in the following equation:
