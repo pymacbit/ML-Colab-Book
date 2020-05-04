@@ -2,7 +2,7 @@
 
 - Regression analysis is a form of predictive modelling technique which investigates the relationship between a dependent and independent variable.
 
- ![alt text](https://drive.google.com/uc?id=1cWXjt2ClmRL7GbSx5X8596Yoiy1Jd8Pj)
+ ![Regression](/img/Regression-Algorithms.png)
 
 
 - The above definition is a bookish definition, in simple terms the **regression** can be defined as, “Using the relationship between variables to find the best fit line or the regression equation that can be used to make predictions”.
