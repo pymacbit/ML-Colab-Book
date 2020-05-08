@@ -10,7 +10,7 @@
 
 - To separate the two classes of data points, there are many possible hyperplanes that could be chosen as shown in figure below.
 
-![alt text](https://miro.medium.com/max/300/0*9jEWNXTAao7phK-5.png) ![alt text](https://miro.medium.com/max/300/0*0o8xIA4k3gXUDCFU.png)
+![svm-initial](/img/svm1.png) ![svm-path](/img/svm2.png)
 
 - Our objective is to find a plane that has the maximum margin, i.e the maximum distance between data points of both classes. 
 

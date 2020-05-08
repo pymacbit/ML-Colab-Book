@@ -10,4 +10,4 @@ Hence, it is also known as **logit regression**.
 
 - In logistic regression, the output takes the form of probabilities of the default class (unlike linear regression, where the output is directly produced). As it is a probability, the output lies in the range of 0-1. So, for example, if we’re trying to predict whether patients are sick, we already know that sick patients are denoted as 1, so if our algorithm assigns the score of 0.98 to a patient, it thinks that patient is quite likely to be sick.
 
-  ![alt text](https://drive.google.com/uc?id=1DTRbSE5OxMlmyUrHnB_KVarVH5593Qjb)
+  ![Logistic-Function](/img/Logistic-Function.png)

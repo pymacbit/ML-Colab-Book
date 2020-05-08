@@ -9,7 +9,7 @@
 
 - These distance functions can be Euclidean, Manhattan, Minkowski and Hamming distance. First three functions are used for continuous function and fourth one (Hamming) for categorical variables. If K = 1, then the case is simply assigned to the class of its nearest neighbor. At times, choosing K turns out to be a challenge while performing kNN modeling.
 
-![alt text](https://drive.google.com/file/d/1WDYl9V_KANEKXvY1QpOXDLpMtlJltSo0/view?usp=sharing)
+![KNN](/img/KNN.png)
 
 - KNN can easily be mapped to our real lives. If you want to learn about a person, of whom you have no information, you might like to find out about his close friends and the circles he moves in and gain access to his/her information!
 
