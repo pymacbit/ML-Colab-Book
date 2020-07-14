@@ -4,6 +4,9 @@
 
 - They are a class of pattern matching that are commonly used for regression and classification problems but are really an enormous subfield comprised of hundreds of algorithms and variations for all manner of problem types.
 
+<img src="img/nn.jpg"  width="500"  height="500">
+
+
 The most popular artificial neural network algorithms are:
 
 Perceptron
